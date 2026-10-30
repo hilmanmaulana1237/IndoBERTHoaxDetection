@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Deteksi Berita Hoaks dengan IndoBERT" width="100%">
+<img src="assets/banner.png" alt="Deteksi Berita Hoaks dengan IndoBERT" width="100%">
 
 <br>
 

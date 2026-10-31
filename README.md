@@ -29,7 +29,7 @@
 
 <br>
 
-<a href="[https://colab.research.google.com/github/hilmanmaulana1237/NAMA-REPO/blob/main/uts_nlp_hilman.ipynb](https://colab.research.google.com/drive/1BSvK4n1NtBeIDiVFQ-TqKTnn9jRIQsiW?usp=sharing)">
+<a href="[(https://colab.research.google.com/drive/1BSvK4n1NtBeIDiVFQ-TqKTnn9jRIQsiW?usp=sharing)]">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Buka di Google Colab">
 </a>
 

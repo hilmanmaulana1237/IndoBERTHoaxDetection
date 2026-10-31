@@ -272,7 +272,7 @@ pip install -r requirements.txt
 
 Buka `uts_nlp_hilman.ipynb` di Jupyter Notebook atau VS Code. Bisa juga langsung lewat Google Colab:
 
-<a href="https://colab.research.google.com/github/hilmanmaulana1237/NAMA-REPO/blob/main/uts_nlp_hilman.ipynb">
+<a href="https://colab.research.google.com/drive/1BSvK4n1NtBeIDiVFQ-TqKTnn9jRIQsiW?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Buka di Google Colab">
 </a>
 
